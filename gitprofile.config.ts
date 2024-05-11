@@ -52,7 +52,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Jessie Xiao',
     description: '',
     imageURL: '',
   },
@@ -80,10 +80,10 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://uwnetid-my.sharepoint.com/:w:/g/personal/jx77_uw_edu/EQGd-BGeS4JGjLdRK33uzO4BmOyHbNI0eq54gz0ZoMPfPA?e=gLvsYP', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
+    'RStudio',
     'Laravel',
     'JavaScript',
     'React.js',
