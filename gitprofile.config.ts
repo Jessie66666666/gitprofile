@@ -13,7 +13,7 @@ const CONFIG = {
   projects: {
     github: {
       display: true, // Display GitHub projects?
-      header: 'Jessie's Projects',
+      header: 'Github Projects',
       mode: 'automatic', // Mode can be: 'automatic' or 'manual'
       automatic: {
         sortBy: 'stars', // Sort projects by 'stars' or 'updated'
@@ -29,11 +29,11 @@ const CONFIG = {
       },
     },
     external: {
-      header: 'Jessie's Projects',
+      header: 'My Projects',
       // To hide the `External Projects` section, keep it empty.
       projects: [
         {
-          title: 'Jessie's Profile',
+          title: 'Project Name',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
@@ -41,7 +41,7 @@ const CONFIG = {
           link: 'https://example.com',
         },
         {
-          title: 'Jessie's Profile',
+          title: 'Project Name',
           description:
             'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
           imageUrl:
@@ -52,7 +52,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Jessie',
+    title: 'Portfolio of Ariful Alam',
     description: '',
     imageURL: '',
   },
@@ -235,10 +235,10 @@ const CONFIG = {
 
   // Optional Footer. Supports plain text or HTML.
   footer: `Made with <a 
-      class="text-primary" href="https://github.com/arifszn/gitprofile"
+      class="text-primary" href=" "
       target="_blank"
       rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+    >GitProfile</a > and ❤️`,
 
   enablePWA: true,
 };
